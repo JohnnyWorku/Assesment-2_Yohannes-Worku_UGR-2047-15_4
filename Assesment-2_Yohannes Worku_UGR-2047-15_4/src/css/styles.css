@@ -1,0 +1,72 @@
+/* General */
+a {
+  color: #567622;
+}
+
+/* Home */
+/* Header */
+
+header {
+  background-color: #212822;
+}
+
+header div {
+  color: white;
+}
+
+header div h1 span {
+  color: #e37c2e;
+}
+
+header nav ul a {
+  background-color: #9ab81e;
+  color: white;
+}
+
+.active {
+  background-color: #e37c2e;
+}
+
+/* *** Main *** */
+
+.title {
+  color: #9ebf62;
+}
+
+.red-link {
+  color: #d8ad88;
+}
+
+main article img {
+  border: 1px solid #ebefed;
+}
+
+main section aside ul {
+  list-style: none;
+}
+
+main section aside nav a {
+  text-decoration: none;
+}
+
+/* footer */
+
+footer {
+  color: white;
+}
+
+.footer-upper {
+  background-color: #212822;
+}
+
+.footer-lower {
+  background-color: #222222;
+}
+
+.footer-lower nav ul a {
+  text-decoration: none;
+}
+
+.white-link {
+  color: white;
+}
